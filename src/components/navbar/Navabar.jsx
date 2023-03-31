@@ -9,19 +9,19 @@ function Navbar() {
   const Menu = () => (
     <>
       <p>
-        <a href="#home">Home</a>
+        <a href="#home">Início</a>
       </p>
       <p>
-        <a href="#wgpt3">What is GPT3?</a>
+        <a href="#wgpt3">O que é GPT3?</a>
       </p>
       <p>
         <a href="#possibility">Open AI</a>
       </p>
       <p>
-        <a href="#features">Case Studies</a>
+        <a href="#features">Casos de Estudo</a>
       </p>
       <p>
-        <a href="#blog">Library</a>
+        <a href="#blog">Biblioteca</a>
       </p>
     </>
   );
@@ -37,8 +37,8 @@ function Navbar() {
         </div>
       </div>
       <div className="gpt3__navbar-sign">
-        <p>Sign in</p>
-        <button type="button">Sign up</button>
+        <p>Login</p>
+        <button type="button">Cadastrar</button>
       </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu ? (
@@ -59,8 +59,8 @@ function Navbar() {
             <div className="gpt3__navbar-menu_container-links">
               <Menu />
               <div className="gpt3__navbar-menu_container-links-sign">
-                <p>Sign in</p>
-                <button type="button">Sign up</button>
+                <p>Cadastrar</p>
+                <button type="button">Login</button>
               </div>
             </div>
           </div>
