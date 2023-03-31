@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Watching this video at this pontit: [Video React](https://youtu.be/F627pKNUCVQ?t=3945)
+Watching this video at this pontit: [Video React](https://youtu.be/F627pKNUCVQ?t=5894)
 
 ## Available Scripts
 
